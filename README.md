@@ -30,7 +30,7 @@ This project analyzes Walmart sales data to uncover trends, patterns, and action
    [Holiday Sales](plots/holiday_sales_vs_non_holiday.png)
 
 3. **Correlation with External Factors**:
-   [Correlation with External Factors](path_to_image)
+   [Correlation with External Factors](plots/correlation_matrix-factors.png)
    
 4. **Sales performance by Store**:
    [Sales performance by Store](plots/total_sales_by_store.png)
