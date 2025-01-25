@@ -24,7 +24,7 @@ This project analyzes Walmart sales data to uncover trends, patterns, and action
 
 ## Visualizations
 1. **Sales Over Time**:
-   ![Sales Over Time](path_to_image)
+   ![Sales Over Time](plots/sales_over_time.png)
 
 2. **Holiday Impact on Sales**:
    ![Holiday Sales](path_to_image)
