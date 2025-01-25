@@ -24,16 +24,16 @@ This project analyzes Walmart sales data to uncover trends, patterns, and action
 
 ## Visualizations
 1. **Sales Over Time**:
-   ![Sales Over Time](plots/sales_over_time.png)
+   [Sales Over Time](plots/sales_over_time.png)
 
 2. **Holiday Impact on Sales**:
-   ![Holiday Sales](path_to_image)
+   [Holiday Sales](path_to_image)
 
 3. **Correlation with External Factors**:
-   ![Correlation with External Factors](path_to_image)
+   [Correlation with External Factors](path_to_image)
    
 4. **Sales performance by Store**:
-   ![Sales performance by Store](path_to_image)
+   [Sales performance by Store](path_to_image)
 
 ## Technologies
 - Python
