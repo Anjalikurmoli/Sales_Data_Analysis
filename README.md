@@ -33,7 +33,7 @@ This project analyzes Walmart sales data to uncover trends, patterns, and action
    [Correlation with External Factors](path_to_image)
    
 4. **Sales performance by Store**:
-   [Sales performance by Store](path_to_image)
+   [Sales performance by Store](plots/total_sales_by_store.png)
 
 ## Technologies
 - Python
